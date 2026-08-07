@@ -1,4 +1,5 @@
 # PromptForge
+[![MCP Badge](https://lobehub.com/badge/mcp/jdgiles26-agentic-mcp-server)](https://lobehub.com/mcp/jdgiles26-agentic-mcp-server)
 
 Rewrites coding-assistant prompts using strategies from
 [awesome-agentic-patterns](https://github.com/nibzard/agentic-patterns).
